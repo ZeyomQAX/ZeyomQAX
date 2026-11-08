@@ -1,238 +1,182 @@
- <div align="center">
+<!-- ===================================================== -->
+<!--                    ANIMATED HEADER                    -->
+<!-- ===================================================== -->
 
-<h1>⚡ C++ Developer</h1>
-<h3>Low-Level Programming · Windows Development · Software Engineering</h3>
-
-<p>
-  <a href="https://github.com/YOUR_USERNAME">GitHub Profile</a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">Repositories</a>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=wave&color=0:0B3B5A,50:087E8B,100:00D9C0&height=220&section=header&text=YOUR_USERNAME&fontSize=48&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=CPP%20Developer%20%7C%20Low-Level%20Programming&descSize=17&descAlignY=55"
+    width="100%"
+  />
 </p>
 
-</div>
+<!-- ===================================================== -->
+<!--                    TYPING ANIMATION                   -->
+<!-- ===================================================== -->
 
----
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<h3>👨‍💻 About Me</h3>
-
-<p>
-Interested in software development, system programming and low-level technologies.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&height=50&lines=C%2B%2B+Developer;Low-Level+Programming;Windows+Development;Reverse+Engineering;Building+Software+%26+Learning"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
 
-<ul>
-<li>Developing with modern C++</li>
-<li>Exploring Windows internals</li>
-<li>Learning Reverse Engineering</li>
-<li>Building desktop applications</li>
-<li>Interested in hardware programming</li>
-</ul>
+---
 
-</td>
-<td width="50%" valign="top">
+<!-- ===================================================== -->
+<!--                       ABOUT ME                        -->
+<!-- ===================================================== -->
 
-<h3>🎯 Current Focus</h3>
+<h2 align="center">👨‍💻 About Me</h2>
 
-<ul>
-<li>C++23</li>
-<li>WinAPI</li>
-<li>Qt 6</li>
-<li>Windows Development</li>
-<li>Memory Management</li>
-<li>Assembly</li>
-<li>Reverse Engineering</li>
-</ul>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
 
-</td>
-</tr>
+### ⚡ Profile
+
+- C++ Developer
+- Interested in Low-Level Programming
+- Windows Application Development
+- Exploring Reverse Engineering
+- Interested in System Architecture
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🎯 Current Focus
+
+- Modern C++23
+- Windows API
+- Qt 6
+- Memory Management
+- Assembly
+- Network Programming
+
+    </td>
+  </tr>
 </table>
 
 ---
 
-<h3 align="center">🛠️ Languages & Technologies</h3>
+<!-- ===================================================== -->
+<!--                    SKILL ICONS                        -->
+<!-- ===================================================== -->
 
-<table width="100%">
-<tr>
-<td align="center" width="50%">
+<h2 align="center">🛠️ Languages & Technologies</h2>
 
-<h3>Languages</h3>
-
-C++  
-Rust  
-Python  
-Assembly
-
-</td>
-<td align="center" width="50%">
-
-<h3>Frameworks & Tools</h3>
-
-Qt 6  
-WinAPI  
-OpenCV  
-WinSock2  
-Visual Studio  
-CMake  
-Git
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,rust,python,qt,windows,visualstudio,git,cmake,opencv&theme=dark&perline=9" />
+</p>
 
 ---
 
-<h3 align="center">💻 Development Areas</h3>
+<!-- ===================================================== -->
+<!--                    SHIELDS BADGES                     -->
+<!-- ===================================================== -->
 
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
+<h2 align="center">⚙️ Development Environment</h2>
 
-<h3>⚙️ System Programming</h3>
+<p align="center">
 
-C++23
+  <img src="https://img.shields.io/badge/C%2B%2B-23-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
-Memory Management
+  <img src="https://img.shields.io/badge/Rust-Language-000000?style=for-the-badge&logo=rust&logoColor=white" />
 
-Windows API
+  <img src="https://img.shields.io/badge/Qt-6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
 
-Low-Level Development
+  <img src="https://img.shields.io/badge/Windows-Development-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
 
-</td>
-<td width="33%" align="center" valign="top">
+</p>
 
-<h3>🖥️ Desktop Development</h3>
+<p align="center">
 
-Qt 6
+  <img src="https://img.shields.io/badge/Visual%20Studio-2022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
 
-Win32 API
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-GUI Applications
+  <img src="https://img.shields.io/badge/CMake-Build%20System-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
 
-DirectX 11
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<h3>🔬 Research</h3>
-
-Reverse Engineering
-
-Assembly
-
-PE Structures
-
-Computer Vision
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
-<h3 align="center">📂 Projects</h3>
+<!-- ===================================================== -->
+<!--                 FEATURED REPOSITORIES                  -->
+<!-- ===================================================== -->
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<h2 align="center">📂 Featured Repositories</h2>
 
-<h3>⚙️ C++ Projects</h3>
+<p align="center">
+  My pinned GitHub projects and repositories.
+</p>
 
-<strong>Engine SDK</strong>
-
-Personal C++ development framework.
-
-<hr>
-
-<strong>Process Manager</strong>
-
-Windows process management experiments.
-
-<hr>
-
-<strong>WinAPI Applications</strong>
-
-Native Windows application development.
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🖥️ Other Projects</h3>
-
-<strong>Qt Applications</strong>
-
-Desktop applications with Qt 6.
-
-<hr>
-
-<strong>OpenCV Experiments</strong>
-
-Computer vision and image processing.
-
-<hr>
-
-<strong>Network Programming</strong>
-
-Client-server applications using WinSock2.
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./metrics.repositories.svg" width="100%" alt="Featured Repositories" />
+</p>
 
 ---
 
-<h3 align="center">📚 Currently Learning</h3>
+<!-- ===================================================== -->
+<!--                    ACTIVITY GRAPH                      -->
+<!-- ===================================================== -->
 
-<table width="100%">
-<tr>
-<td align="center">C++23</td>
-<td align="center">Rust</td>
-<td align="center">WinAPI</td>
-<td align="center">Qt 6</td>
-</tr>
-<tr>
-<td align="center">Assembly</td>
-<td align="center">OpenCV</td>
-<td align="center">Networking</td>
-<td align="center">Computer Science</td>
-</tr>
-</table>
+<h2 align="center">📈 Contribution Activity</h2>
 
----
-
-<h3 align="center">📊 GitHub Activity</h3>
-
-<table width="100%">
-<tr>
-<td align="center" width="50%">
-
-<strong>Repositories</strong>
-
-Explore my projects
-
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">View repositories →</a>
-
-</td>
-<td align="center" width="50%">
-
-<strong>Contributions</strong>
-
-Follow my development progress
-
-<a href="https://github.com/YOUR_USERNAME?tab=overview">View activity →</a>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=C9D1D9&line=00D9C0&point=22D3EE&area=true&hide_border=true&custom_title=Contribution%20Activity"
+      width="100%"
+      alt="GitHub Activity Graph"
+    />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<!-- ===================================================== -->
+<!--                    GITHUB METRICS                     -->
+<!-- ===================================================== -->
 
-<h3>⚡ Keep Building. Keep Learning.</h3>
+<h2 align="center">📊 GitHub Metrics</h2>
 
-<sub>Thanks for visiting my profile!</sub>
+<p align="center">
+  <img src="./metrics.svg" width="100%" alt="GitHub Metrics" />
+</p>
 
-</div>
+---
+
+<!-- ===================================================== -->
+<!--                      WAKATIME                         -->
+<!-- ===================================================== -->
+
+<h2 align="center">⌨️ Coding Activity</h2>
+
+<p align="center">
+  <i>My programming time and language statistics.</i>
+</p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+<!-- ===================================================== -->
+<!--                        FOOTER                         -->
+<!-- ===================================================== -->
+
+<p align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00D9C0,50:087E8B,100:0B3B5A&height=110&section=footer" width="100%" />
+
+</p>
+
+<p align="center">
+  <b>⚡ Code. Build. Improve.</b>
+</p>
+
+<p align="center">
+  <sub>Thanks for visiting my profile!</sub>
+</p>
