@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Developer 👋</h1>
 
-<!--
-**ZeyomQAX/ZeyomQAX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  C++ Developer | Low-Level Programming
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- Learning C++23
+- Interested in Windows Development
+- Exploring Reverse Engineering
+- Working with Qt and WinAPI
+
+### Tech Stack
+
+[![Skills](https://skillicons.dev/icons?i=cpp,rust,python,qt,windows,visualstudio,git)](https://skillicons.dev)
+
+### GitHub Statistics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true)
