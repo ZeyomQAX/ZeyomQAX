@@ -67,7 +67,7 @@
 <h2 align="center">🛠️ Languages & Technologies</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,rust,python,qt,windows,visualstudio,git,cmake,opencv&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,qt,visualstudio,git,cmake,opencv&theme=dark&perline=9" />
 </p>
 
 ---
@@ -81,8 +81,6 @@
 <p align="center">
 
   <img src="https://img.shields.io/badge/C%2B%2B-23-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Rust-Language-000000?style=for-the-badge&logo=rust&logoColor=white" />
 
   <img src="https://img.shields.io/badge/Qt-6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
 
