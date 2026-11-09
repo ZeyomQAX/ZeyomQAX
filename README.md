@@ -25,7 +25,7 @@ Exploring low-level programming, Windows internals, software architecture and re
 ## TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,qt,visualstudio,windows,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,qt,visualstudio,git&theme=dark" />
 </p>
 
 <p align="center">
