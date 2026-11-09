@@ -48,12 +48,3 @@ Exploring low-level programming, Windows internals, software architecture and re
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZeyomQAX&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZeyomQAX&theme=github_dark" />
 </p>
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=0:080511,100:32105F&section=footer&animation=twinkling" />
-</p>
-
-<p align="center">
-  <code>LEARN. BUILD. ANALYZE. REPEAT.</code>
-</p>
