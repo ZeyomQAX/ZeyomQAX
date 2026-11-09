@@ -45,9 +45,9 @@ Exploring low-level programming, Windows internals, software architecture and re
 ## LANGUAGE STATISTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyomQAX&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=C084FC&text_color=E9D5FF&bg_color=080511" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZeyomQAX&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZeyomQAX&theme=github_dark" />
 </p>
-
 ---
 
 <p align="center">
