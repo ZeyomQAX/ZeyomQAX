@@ -1,36 +1,46 @@
-# Hey! I'm a C++ Developer 👋
-
-Interested in low-level programming, Windows development and reverse engineering.
-
-### 🛠️ Technologies & Tools
+## 🔍 Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,qt,visualstudio,git,github,windows" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/WinAPI-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
-### 🔍 Currently Learning
+- Object-Oriented Programming
+- Memory Management
+- Modern C++ and STL
+- Desktop Application Development
 
-- C++ — OOP, memory management, modern C++.
-- Qt 6 — desktop applications and GUI development.
-- WinAPI — Windows internals and system programming.
-- Reverse Engineering — IDA Pro, assembly and binary analysis.
-
-### 💻 Interests
-
-- Low-level programming
-- Reverse Engineering
-- Windows Development
-- Software Architecture
-
-### 📊 GitHub Stats
+## 🧩 Reverse Engineering
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://img.shields.io/badge/IDA_Pro-4B5563?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-8A2BE2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reverse_Engineering-20232A?style=for-the-badge&logoColor=white" />
+</p>
+
+- Binary Analysis
+- Assembly
+- Software Internals
+- Windows Internals
+
+## 💻 Interests
+
+<p>
+  <img src="https://img.shields.io/badge/Low--Level_Programming-20232A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Windows_Development-0078D6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Software_Architecture-6C3483?style=flat-square" />
+</p>
+
+## 📊 GitHub Statistics
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Learning, building and improving every day.</i>
+  <sub>Building things, learning new technologies and exploring how software works.</sub>
 </p>
