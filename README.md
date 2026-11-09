@@ -1,62 +1,51 @@
-# 👋 Hello, I'm a C++ Developer
+# Software Development
 
-Interested in low-level programming, Windows development and reverse engineering.
+**C++ · Windows Development · Reverse Engineering**
+
+Interested in systems programming, software internals and building desktop applications.
 
 ---
 
-## 🛠️ Technologies & Tools
+### ⚙️ Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,qt,visualstudio,windows,git,github" />
 </p>
 
-## 🔍 Currently Learning
-
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/WinAPI-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Modern_C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/WinAPI-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDA_Pro-555555?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-8A2BE2?style=flat-square&logoColor=white" />
 </p>
 
-- Object-Oriented Programming
-- Memory Management
-- STL & Modern C++
+### 🔬 Areas of Interest
+
+- Low-Level Programming
+- Reverse Engineering & Binary Analysis
+- Windows Internals
 - Desktop Application Development
-- Windows Internals
+- Software Architecture
 
-## 🧩 Reverse Engineering
+### 📚 Currently Exploring
 
-<p align="left">
-  <img src="https://img.shields.io/badge/IDA_Pro-4B5563?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-8A2BE2?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reverse_Engineering-20232A?style=for-the-badge&logoColor=white" />
-</p>
+- Modern C++ and STL
+- Memory Management
+- Qt 6 & GUI Development
+- WinAPI & Windows Internals
+- Assembly and Disassembly
 
-- Binary Analysis
-- Assembly & Disassembly
-- Software Internals
-- Windows Internals
-- Static Analysis
+---
 
-## 💻 Interests
+### 📊 Language Statistics
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Low--Level_Programming-20232A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Windows_Development-0078D6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Software_Architecture-6C3483?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer_Science-34495E?style=flat-square" />
-</p>
-
-## 📊 GitHub Statistics
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=github_dark&hide_border=true&card_width=400" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>Building things, learning new technologies and exploring how software works.</sub>
+  <sub>Learning through building. Understanding through experimentation.</sub>
 </p>
