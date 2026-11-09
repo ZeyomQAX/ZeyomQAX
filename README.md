@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=900&color=C084FC&center=true&vCenter=true&width=650&lines=%3E+Initializing+developer+environment...;%3E+C%2B%2B+%7C+Qt+6+%7C+WinAPI;%3E+Reverse+Engineering+%7C+IDA+Pro;%3E+Analyzing+software+internals...;%3E+System+ready+%5BOK%5D" />
 </p>
 
----
-
 ## PROFILE
 
 **C++ & Systems Development**
